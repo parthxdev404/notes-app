@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body{
+    background-color: black;
+    font-family: 'Inter',sans-serif;
+}
+
+@theme {
+  --drop-shadow-md: 7px 7px ; 
+   --drop-shadow-lg: 7px 5px ;
+}
